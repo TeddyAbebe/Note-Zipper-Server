@@ -27,5 +27,7 @@
   "bugs": {
     "url": "https://github.com/TeddyAbebe/Note-Zipper-Server/issues"
   },
-  "homepage": "https://github.com/TeddyAbebe/Note-Zipper-Server#readme"
+  "homepage": "https://github.com/TeddyAbebe/Note-Zipper-Server#readme",
+  "devDependencies": {},
+  "description": ""
 }
