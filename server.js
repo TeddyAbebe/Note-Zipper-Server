@@ -18,9 +18,6 @@ app.get("/", (req, res) => {
   res.send("My Api is Running...");
 });
 
-// app.get("/api/notes", (req, res) => {
-//   res.json(notes);
-// });
 
 app.use("/api/users", userRoutes)
 app.use("/api/notes", noteRoutes);
